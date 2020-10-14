@@ -15,7 +15,7 @@ To install this theme you can do the following command inside `/themes` director
 git clone https://github.com/Miyakosuru/Nichijou.git nichijou
 ```
 Remember to set the name of the theme in the `config.yml`.
-```
+```yaml
 theming:
   name: nichijou
 ```
