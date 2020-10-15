@@ -5,6 +5,7 @@
     "repository": "https://github.com/Miyakosuru/nichijou",
     "paths": {
         "assets": "public",
-        "templates": "views"
+        "templates": "views",
+        "mail": "mail"
     }
 }
