@@ -1,6 +1,8 @@
 # Nichijou 日常
 Default theme for Genkan
 
+> Nichijou is already included in all Genkan installations. This repository contains the original code of Nichijou before Genkan was publish and will probably not work on any versions of Genkan that was licensed under GPL-3.
+
 ## Use as a template
 You can use this repository as the base of a brand new theme you wish to create. See that shiny green button labeled, "Use this template"? Click that and you're good to go!
 
